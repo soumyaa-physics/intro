@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soumyaa-physics
 - 👀 I’m interested in High Energy Physics
-- 🌱 I’m currently learning deep learning in physics, doing my masters thesis
+- 🌱 I’m currently doing my masters thesis
 - 💞️ I’m looking to collaborate on some fun projects on machine learning
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/soumyaa-v-900548190/)
 - 😄 Pronouns: she/her
